@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/BryanPool99?tab=repositories)
+- GitHub Bryan Arredondo(https://github.com/BryanPool99?tab=repositories)
